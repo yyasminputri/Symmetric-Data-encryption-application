@@ -1,12 +1,4 @@
 ## Report Information Security
-
-| Name                      | Student ID  |
-|---------------------------|-------------|
-| Furstin Aprilavia Putri    | 5025221234  |
-| Nabhyla Niagara Rannuan    | 5025221286  |
-| Helsa Sriprameswari Putri  | 5025221154  |
-| Yasmin Putri Sujono        | 5025221273  |
-
 ## Introduction
 In this task, We developed a web application using Laravel to securely store and manage users' personal data, adhering to regulations such as GDPR (EU) or UU PDP (Indonesia). The system ensures secure access and implements encryption algorithms to compare their performance: Advanced Encryption Standard (AES), Data Encryption Standard (DES), and Rivest Cipher 4 (RC4). These encryption methods are applied to different data types, including ID card images, documents, and videos. A CRUD (Create, Read, Update, Delete) web application is used to analyze performance and security differences among these algorithms.
 
